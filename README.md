@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hey there, I'm Saish 👋
 
-<!--
-**Sawant-Saish/Sawant-Saish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer in the making
+🤖 Exploring Agentic AI & how intelligent systems make decisions
+☕ Powered by curiosity (and occasional laziness)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔭 Currently diving into **Agentic AI** — understanding how autonomous systems think, plan, and act
+* 🌐 Building my path as a **Full Stack Developer** (MERN stack enthusiast)
+* 🧠 Learning **Data Structures & Algorithms in Java** to strengthen problem-solving
+* 😴 Self-proclaimed lazy engineer…
+  ⚡ …but extremely curious about *how tech actually works under the hood*
+
+> I may procrastinate starting things, but once curiosity kicks in, I go full deep-dive mode.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**
+`HTML` • `CSS` • `JavaScript` • `React`
+
+**Backend:**
+`MongoDB`
+📘 *Currently learning:* `Node.js` • `Express`
+
+**Languages:**
+`JavaScript` • `Java` • `Python`
+
+**Tools & Concepts:**
+`Git` • `GitHub` • `System Design Basics`
+📘 *Currently learning:* `REST APIs`
+
+---
+
+## 🧠 Currently Learning
+
+* 🤖 Agentic AI & AI workflows
+* 🌍 Scalable full-stack architecture
+* 🧩 Advanced DSA patterns in Java
+* ⚙️ How things work behind the scenes (protocols, engines, runtimes)
+
+---
+
+## 📌 Featured Projects
+
+🚧 *Projects will be updated soon — building some exciting stuff!*
+
+---
+
+## 📊 GitHub Stats
+
+![Saish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
+
+---
+
+## ⚡ Fun Fact
+
+I love breaking down complex tech into simple ideas —
+mostly because I refuse to memorize things I can *understand* 😌
+
+---
+
+## 📫 Let's Connect
+
+* 💼 LinkedIn: <your-link>
+* 📧 Email: <your-email>
+
+---
+
+⭐ *“Stay curious. That’s where the real learning begins.”*
