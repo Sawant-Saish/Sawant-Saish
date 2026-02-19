@@ -60,8 +60,8 @@ mostly because I refuse to memorize things I can *understand* 😌
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: <your-link>
-* 📧 Email: <your-email>
+* 💼 LinkedIn: https://www.linkedin.com/in/saish-sawant-115584371/
+* 📧 Email: work.saishsawant@mail.com
 
 ---
 
