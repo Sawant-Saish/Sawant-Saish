@@ -51,14 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Saish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
-
----
-
 ## ⚡ Fun Fact
 
 I love breaking down complex tech into simple ideas —
