@@ -2,6 +2,7 @@
 
 💻 Full Stack Developer in the making
 🤖 Exploring Agentic AI & how intelligent systems make decisions
+➜ Interested in System Design
 ☕ Powered by curiosity (and occasional laziness)
 
 ---
@@ -27,12 +28,12 @@
 `MongoDB`
 📘 *Currently learning:* `Node.js` • `Express`
 
-**Languages:**
-`JavaScript` • `Java` • `Python`
+**Languages:** (familiar with)
+`JavaScript` • `Java` • `Python` • `C` • `C++`
 
 **Tools & Concepts:**
 `Git` • `GitHub` • `System Design Basics`
-📘 *Currently learning:* `REST APIs`
+📘 *Currently learning:* `Agentic Workflows and Backend`
 
 ---
 
@@ -40,14 +41,17 @@
 
 * 🤖 Agentic AI & AI workflows
 * 🌍 Scalable full-stack architecture
-* 🧩 Advanced DSA patterns in Java
+* 🧩 DSA
 * ⚙️ How things work behind the scenes (protocols, engines, runtimes)
 
 ---
 
 ## 📌 Featured Projects
 
-🚧 *Projects will be updated soon — building some exciting stuff!*
+-Amazon Clone
+-Interactive WhiteBoard
+-Cube solver
+🚧 *More Projects will be updated soon — building some exciting stuff!.. and updating the old-once.*
 
 ---
 
