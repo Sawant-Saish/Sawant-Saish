@@ -25,8 +25,8 @@
 `HTML` • `CSS` • `JavaScript` • `React`
 
 **Backend:**
-`MongoDB`
-📘 *Currently learning:* `Node.js` • `Express`
+`MongoDB` `Node.js` • `Express`
+📘 *Currently learning:* `React` 
 
 **Languages:** (familiar with)
 `JavaScript` • `Java` • `Python` • `C` • `C++`
@@ -49,6 +49,7 @@
 ## 📌 Featured Projects
 
 -Amazon Clone
+-Spotify Clone (Backend)
 -Interactive WhiteBoard
 -Cube solver
 🚧 *More Projects will be updated soon — building some exciting stuff!.. and updating the old-once.*
